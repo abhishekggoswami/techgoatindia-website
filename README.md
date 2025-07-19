@@ -1,3 +1,4 @@
+<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/1e933ff7-0aac-49d0-b58b-bec377b89abb" />
 # techgoatindia-website
 This is the official website for Techgoatindia.com , crafted from scratch with a focus on performance, responsiveness, and a clean user experience. Built using Next.js, React, Tailwind CSS and deployed on the domain from godaddy.  🔗 Live Website:https://www.techgoatindia.com/ 🎯 Purpose: Present our mission, services, and products.
 
